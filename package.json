@@ -1,0 +1,16 @@
+{
+  "name":        "belgian-hubot-scripts",
+  "version":     "0.0.1",
+  "author":      "Thomas Van Machelen",
+  "keywords":    "github hubot scripts belgium belgian",
+  "description": "A collection of belgian hubot scrips",
+  "licenses":     [{
+    "type":       "MIT",
+    "url":        "http://github.com/github/hubot/raw/master/LICENSE"
+  }],
+  "dependencies": {
+    "hubot": "2.3.2",
+    "optparse": "1.0.3"
+  }
+}
+
