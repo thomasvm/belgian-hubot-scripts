@@ -5,7 +5,7 @@
 #   hubot kenji me (nog) and answers with a Kenji Mingoue line.
 module.exports = (robot) ->
   robot.respond /kenji me( nog)?/, (msg) ->
-   kenji_tekstn = [
+    kenji_tekstn = [
         "Moe kik betalen vo de pipi of ist bie mie vo nietnie?",
         "Ey Willy, Stop ne kee me creepen en te chiepen 'ti mn dink nie'",
         "Onze wifiverbinding? Da pakkn zoes nie af!",
